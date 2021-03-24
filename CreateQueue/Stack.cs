@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PeakAnd_PopStack
+namespace CreateQueue
 {
     class Stack
     {
