@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CreateQueue
+namespace Dequeue
 {
     class Stack
     {
+
         private Node top;
         public Stack()
         {

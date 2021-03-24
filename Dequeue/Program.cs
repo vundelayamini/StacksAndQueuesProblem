@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CreateQueue
+namespace Dequeue
 {
     class Program
     {
@@ -22,6 +22,7 @@ namespace CreateQueue
             linkedListQueue.Enqueue(56);
             linkedListQueue.Enqueue(30);
             linkedListQueue.Enqueue(70);
+            linkedListQueue.Dequeue();
             linkedListQueue.Display();
         }
     }
