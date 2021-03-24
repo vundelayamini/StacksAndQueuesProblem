@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CreateAStack
+namespace PeakAnd_PopStack
 {
     class Node
     {
